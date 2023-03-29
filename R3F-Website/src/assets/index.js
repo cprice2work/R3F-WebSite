@@ -30,6 +30,14 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import wordporess from "./wordporess.png";
+import personalsite from "./perssonalsite.png";
+import react3fibersite from "./React3Fibersite.png";
+
+import revature from "./company/revature.png";
+import cxstudios from './company/cxstudios.jpg';
+import logo2 from "./logo.png";
+
 export {
   logo,
   backend,
@@ -59,4 +67,12 @@ export {
   carrent,
   jobit,
   tripguide,
+
+  wordporess,
+  personalsite,
+  react3fibersite,
+
+  revature,
+  cxstudios,
+  logo2,
 };
