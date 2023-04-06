@@ -1,21 +1,21 @@
-# 🖥React 3 Fiber Portfolio🖱
+# 🌎🖥React 3 Fiber Portfolio🖱
 
 
 This is a portfolio website that showcases some of my front-end development skills. 
-1. The hero section of the site provides an introduction to who I am and what I do, while the about section gives visitors a more detailed look at my background and experience.
-2. The work section features examples of my past projects, while the skills section highlights my technical abilities and areas of expertise.
-3. Finally, the contact section provides visitors with a way to get in touch with me.
-4. The site is styled using Styled Components, a popular CSS-in-JS library that allows for more maintainable and reusable CSS. Additionally, the site includes animated favicons that add a touch of fun and interactivity.
-5. Explore the site and feel free to reach out with any questions or comments!
+1. To make the site more engaging and interactive, I have utilized three.js, a popular JavaScript library for creating 3D graphics in the browser. This allows for unique animations and interactivity with models on the site.
+
+2. The styling of the site is done using TailwindCSS, a utility-first CSS framework that allows for rapid prototyping and easy customization. I have also imported various components, including Tilt, to add additional functionality to the site.
+
+3. Take a look around and explore the site, and don't hesitate to reach out to me through the contact section if you have any questions or would like to work together.
 
 ### 📡Live Site: https://christianjprice3.web.app
 
 ## 🔑Key Features
 
 1. Dynamic rendering for any screen size
-2. Linear gradient applied to each header text, which scrolls
+2. Interactive 3D Models
 3. Navigation bar turns into a hamburger menu for mobile devices
-4. Custom animation to the div
+4. Custom animation to the models 
 
 ## 👨‍💻Technologies Used
 
